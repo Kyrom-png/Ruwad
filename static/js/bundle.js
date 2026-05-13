@@ -27039,7 +27039,7 @@ var _jsxFileName = "/app/frontend/src/components/AudioToggle.jsx",
   _s = __webpack_require__.$Refresh$.signature();
 
 
-const AMBIENT_URL = "https://customer-assets.emergentagent.com/job_fd66f443-d9b3-4196-9d21-72f1942891e3/artifacts/8qz0ozqg_ambient.mp3";
+const AMBIENT_URL = "https://dl.dropboxusercontent.com/scl/fi/8hyafl06hacquv65t3tks/ambient.mp3?rlkey=4yyhmuei3mrcictzc056jixw5&st=36i8fnrn";
 const AudioToggle = () => {
   _s();
   const audioRef = (0,react__WEBPACK_IMPORTED_MODULE_0__.useRef)(null);
