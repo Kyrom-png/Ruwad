@@ -28053,7 +28053,7 @@ const Hero = () => {
           "x-component": "span",
           "x-id": "Hero_35_10",
           "x-dynamic": "false",
-          children: "\u0641\u0631\u0642\u0629 \u0627\u0644\u0623\u062F\u0627\u0621 \xB7 \u0631\u0648\u0627\u0641\u062F"
+          children: "\u0641\u0631\u064a\u0642 \u0627\u0644\u0623\u062F\u0627\u0621 \xB7 \u0631\u0648\u0627\u0641\u062F"
         }, void 0, false, {
           fileName: _jsxFileName,
           lineNumber: 35,
@@ -28148,7 +28148,7 @@ const Hero = () => {
         "x-component": "p",
         "x-id": "Hero_68_8",
         "x-dynamic": "false",
-        children: "\u0641\u0631\u0642\u0629 \u0627\u0644\u0646\u0651\u0648\u0631 \u2014 \u062D\u062F\u062B \u0631\u0648\u0627\u0641\u062F"
+        children: "\u0641\u0631\u064a\u0642 \u0627\u0644\u0646\u0651\u0648\u0631 \u2014 \u062D\u062F\u062B \u0631\u0648\u0627\u0641\u062F"
       }, void 0, false, {
         fileName: _jsxFileName,
         lineNumber: 68,
